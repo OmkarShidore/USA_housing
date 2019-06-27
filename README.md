@@ -9,3 +9,7 @@ Predicting housing prices for regions in the USA using Linear Regression Machine
 * 'Area Population': Population of city house is located in
 * 'Price': Price that the house sold at
 * 'Address': Address for the house
+
+##Versions
+* numpy 1.16.1
+* python 3.7
